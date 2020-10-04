@@ -1,0 +1,57 @@
+.App{
+    background-color: rgb(169, 221, 215);
+}
+
+.container{
+    padding-top: 9%;
+    padding-left: 27%;
+    
+    
+}
+
+.card{
+    width:25rem;
+    height:15rem;
+    background-color: honeydew;
+    
+    
+}
+.card-text{
+    text-align: center;
+}
+.card-title{
+    text-align: center;
+}
+
+.card-link{
+    color:white;
+}
+.advices{
+    text-align: center;
+    
+}
+.navbar-brand{
+    padding-left:40%;
+    text-align: center;
+
+}
+.footer-container{
+    margin: 0 auto;
+    text-align: center;
+    align-content: center;
+}
+a.footer{
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+a.instagram {
+    color: black;
+  }
+  a.medium {
+    color: black;
+  }
+  a.linkedin {
+    color: #4968ad;
+  }
+
