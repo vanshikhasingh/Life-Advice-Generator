@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vanshikhasingh.github.io/Life-Advice-Generator/static/css/main.f21620bb.chunk.css",
+    "main.js": "/vanshikhasingh.github.io/Life-Advice-Generator/static/js/main.87dd7e28.chunk.js",
+    "main.js.map": "/vanshikhasingh.github.io/Life-Advice-Generator/static/js/main.87dd7e28.chunk.js.map",
+    "runtime-main.js": "/vanshikhasingh.github.io/Life-Advice-Generator/static/js/runtime-main.474edcb8.js",
+    "runtime-main.js.map": "/vanshikhasingh.github.io/Life-Advice-Generator/static/js/runtime-main.474edcb8.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/vanshikhasingh.github.io/Life-Advice-Generator/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.55ce6f3e.chunk.js": "/vanshikhasingh.github.io/Life-Advice-Generator/static/js/2.55ce6f3e.chunk.js",
+    "static/js/2.55ce6f3e.chunk.js.map": "/vanshikhasingh.github.io/Life-Advice-Generator/static/js/2.55ce6f3e.chunk.js.map",
+    "index.html": "/vanshikhasingh.github.io/Life-Advice-Generator/index.html",
+    "precache-manifest.c77a266720bf6ca811581cc9dc3d90a1.js": "/vanshikhasingh.github.io/Life-Advice-Generator/precache-manifest.c77a266720bf6ca811581cc9dc3d90a1.js",
+    "service-worker.js": "/vanshikhasingh.github.io/Life-Advice-Generator/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/vanshikhasingh.github.io/Life-Advice-Generator/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.f21620bb.chunk.css.map": "/vanshikhasingh.github.io/Life-Advice-Generator/static/css/main.f21620bb.chunk.css.map",
+    "static/js/2.55ce6f3e.chunk.js.LICENSE.txt": "/vanshikhasingh.github.io/Life-Advice-Generator/static/js/2.55ce6f3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.474edcb8.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.55ce6f3e.chunk.js",
+    "static/css/main.f21620bb.chunk.css",
+    "static/js/main.87dd7e28.chunk.js"
+  ]
+}
